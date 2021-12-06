@@ -11,6 +11,7 @@
         array
         null
     */
+    
     echo '<br>';
     $friend="Harshit";
     echo "My name is <h1>$name</h1> and mera beta ka naam hai <h1>$friend</h1>";
